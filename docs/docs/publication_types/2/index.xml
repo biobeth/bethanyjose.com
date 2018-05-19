@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 on Bethany Jose</title>
+    <link>/publication_types/2/</link>
+    <description>Recent content in 2 on Bethany Jose</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Thu, 01 Jun 2017 00:00:00 +1200</lastBuildDate>
+    
+	<atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Complete Genome Sequences of Two Geographically Distinct Legionella micdadei Clinical Isolates</title>
+      <link>/publication/legionella_paper/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +1200</pubDate>
+      
+      <guid>/publication/legionella_paper/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+    <item>
+      <title>Use of single molecule sequencing for comparative genomics of an environmental and a clinical isolate of Clostridium difficile ribotype 078</title>
+      <link>/publication/c_diff_paper/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +1300</pubDate>
+      
+      <guid>/publication/c_diff_paper/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
