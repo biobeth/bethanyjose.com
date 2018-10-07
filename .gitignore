@@ -1,0 +1,12 @@
+archetypes/
+content/
+data/
+layouts/
+static/
+themes/
+public/
+config.toml
+index.Rmd
+website.Rproj
+HOW_TO_GIT
+.Rproj.user
